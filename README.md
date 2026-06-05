@@ -243,6 +243,7 @@ Planned improvements include:
 - Dashboard Development
 - Operational Monitoring
 - Statistical Analysis
+## Live Demo (https://market-maker-incentive-simulator-5vdsq6oy2eo43te3wekayb.streamlit.app/)
 
 ---
 
